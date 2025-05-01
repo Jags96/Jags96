@@ -21,7 +21,7 @@ If you would like to look at some projects
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| Python Code Generator | GPT-2 Continual Pretraining and Finetuning and Llama-3, Qwen2.5 & Gemma3 Finetuning  | Python, Flask | [GitHub](https://github.com/Jags96/PythonCodeGen-Repo) |
+| Python Code Generator | GPT-2 Continual Pretraining + Finetuning and Llama-3, Qwen2.5 & Gemma3 Finetuning  | Python, Flask | [GitHub](https://github.com/Jags96/PythonCodeGen-Repo) |
 | Apartment Recommender | Flexibility-inherent content based filter  | Python, scikit-learn, Streamlit  | [GitHub](https://github.com/Jags96/Score-Apartment-Recommender) |
 | Obesity Estimation R Analysis | Thorough Inferenial Statistics on what factors affect obesity | R | [Rpubs](https://rpubs.com/jagath_96/1255622) |
 | Transportation Company Database| SQL Database design for Lezit Group of Transportations | MySQL, phpMyAdmin | [GitHub](https://github.com/Jags96/transportation_company_database) |
