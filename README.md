@@ -29,7 +29,7 @@ If you would like to look at some projects
 |Under Development projects|
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-|VS Code Code Assistant (Local LLM)| Local coding assistant using FastAPI + Ollama’s Codellama model; integrates with a custom VS Code extension to generate and suggest code based on editor context. |  FastAPI, llama.cpp, Codellama, VS Code, TypeScript | to be announced  |
+|VS Code Code Assistant (Local LLM)| Local coding assistant using FastAPI + llama.cpp Codellama model; integrates with a custom VS Code extension to generate and suggest code based on editor context. |  FastAPI, llama.cpp, Codellama, VS Code, TypeScript | to be announced  |
 <!--
 |Research Paper Summarization Pipeline   |  An NLP pipeline that summarizes academic papers using Transformers, NER, and relation extraction; includes real-time ingestion with Docker deployment.| Python, Hugging Face Transformers, Docker, FastAPI   |  to be announced |
 | AI Competitive Coder (RAG System)  | Built a Retrieval-Augmented Generation (RAG) system that autonomously solves coding problems using LLMs, vector search, and iterative debugging with future compiler integration. |Python, Ollama 3, Elasticsearch, RAG, PyTest|  to be announced |
